@@ -1,0 +1,2 @@
+
+;cd MAX;sudo chmod +x ins;sudo chmod +x run;sudo ./ins install
